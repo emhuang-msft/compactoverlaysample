@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="Windowing_Modes.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Windowing_Modes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Margin="120,30,0,0">
+            <TextBlock Text="Application View" FontSize="27"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Width="500" Header="Compact Overlay" PlaceholderText="Type a window size"/>
+                <Button Content="Compact Overlay" Margin="5" Click="CompactOverlay_Launch"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Default" Margin="5" Click="Default_Launch"/>
+                <Button Content="Secondary App Window" Margin="5" Click="SecApp_Launch"/>
+            </StackPanel>
+            <TextBlock Text="AppWindow View" FontSize="27"/>
+            <StackPanel>
+                <Button Content="AppWindow Launch" Margin="5" Click="AppWindow_Launch"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
