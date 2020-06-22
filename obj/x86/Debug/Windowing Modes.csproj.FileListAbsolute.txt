@@ -1,0 +1,55 @@
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\App.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\MainPage.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Windowing Modes.xr.xml
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Windowing Modes.exe
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Windowing Modes.pdb
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\resources.pri
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\AppxManifest.xml
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Core\Windowing Modes.exe
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Windowing Modes.build.appxrecipe
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\System.Runtime.dll
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\Windowing Modes.csprojAssemblyReference.cache
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\App.g.i.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\App.g.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\MainPage.g.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\App.xaml
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\MainPage.xaml
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\App.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\MainPage.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\Windowing Modes.csproj.CoreCompileInputs.cache
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\Windowing Modes.csproj.CopyComplete
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\Windowing Modes.exe
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\Windowing Modes.pdb
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\priconfig.xml
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\resources.resfiles
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\pri.resfiles
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\qualifiers.txt
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885598160000000.json
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\AppWinPage.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\bin\x86\Debug\SecAppView.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\AppWinPage.g.i.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\AppWinPage.g.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\SecAppView.g.i.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\SecAppView.g.cs
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\AppWinPage.xaml
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\SecAppView.xaml
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\AppWinPage.xbf
+C:\Users\emhuang\source\repos\Windowing Modes\obj\x86\Debug\SecAppView.xbf
